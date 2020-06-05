@@ -1,6 +1,7 @@
 A simple Expense Tracker App build in react using hooks, context and reducer.
 
 ## Screenshot
+![](https://github.com/abhishekvirat0/Expence_Tracker_React/blob/master/Screenshot%20(33).png)
 
 ## Available Scripts
 
